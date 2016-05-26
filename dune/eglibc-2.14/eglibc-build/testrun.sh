@@ -1,0 +1,3 @@
+#!/bin/sh
+GCONV_PATH='/users/leeymcj/dune/eglibc-2.14/eglibc-build/iconvdata' \
+exec    /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/ld-linux-x86-64.so.2 --library-path /users/leeymcj/dune/eglibc-2.14/eglibc-build:/users/leeymcj/dune/eglibc-2.14/eglibc-build/math:/users/leeymcj/dune/eglibc-2.14/eglibc-build/elf:/users/leeymcj/dune/eglibc-2.14/eglibc-build/dlfcn:/users/leeymcj/dune/eglibc-2.14/eglibc-build/nss:/users/leeymcj/dune/eglibc-2.14/eglibc-build/nis:/users/leeymcj/dune/eglibc-2.14/eglibc-build/rt:/users/leeymcj/dune/eglibc-2.14/eglibc-build/resolv:/users/leeymcj/dune/eglibc-2.14/eglibc-build/crypt:/users/leeymcj/dune/eglibc-2.14/eglibc-build/nptl ${1+"$@"}

@@ -1,0 +1,263 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/sunrpc/compat-xdr.os: xdr.c \
+ /usr/include/stdc-predef.h ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/stdio.h ../libio/stdio.h \
+ ../include/features.h ../bits/predefs.h ../include/sys/cdefs.h \
+ ../misc/sys/cdefs.h ../sysdeps/x86_64/bits/wordsize.h \
+ ../include/gnu/stubs.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h ../bits/types.h \
+ ../bits/typesizes.h ../include/libio.h ../libio/libio.h \
+ ../sysdeps/gnu/_G_config.h ../include/wchar.h ../wcsmbs/wchar.h \
+ ../include/gconv.h ../iconv/gconv.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
+ ../include/shlib-compat.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/abi-versions.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/bits/stdio_lim.h \
+ ../sysdeps/unix/sysv/linux/bits/sys_errlist.h ../libio/bits/stdio.h \
+ ../include/limits.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h \
+ ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
+ ../nptl/sysdeps/unix/sysv/linux/bits/local_lim.h \
+ /usr/include/linux/limits.h ../include/bits/posix2_lim.h \
+ ../posix/bits/posix2_lim.h ../include/bits/xopen_lim.h \
+ ../include/string.h ../include/sys/types.h ../posix/sys/types.h \
+ ../include/time.h ../time/time.h ../include/endian.h ../string/endian.h \
+ ../sysdeps/x86_64/bits/endian.h ../sysdeps/x86_64/bits/byteswap.h \
+ ../include/sys/select.h ../misc/sys/select.h \
+ ../sysdeps/x86_64/bits/select.h ../sysdeps/unix/sysv/linux/bits/sigset.h \
+ ../sysdeps/unix/sysv/linux/bits/time.h \
+ ../sysdeps/unix/sysv/linux/sys/sysmacros.h \
+ ../nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h \
+ ../string/string.h ../include/xlocale.h ../locale/xlocale.h \
+ ../sysdeps/x86_64/bits/string.h ../include/bits/string2.h \
+ ../string/bits/string2.h ../include/stdlib.h ../stdlib/stdlib.h \
+ ../include/libintl.h ../intl/libintl.h ../include/locale.h \
+ ../locale/locale.h ../include/bits/locale.h ../locale/bits/locale.h \
+ ../include/rpc/types.h ../sunrpc/rpc/types.h \
+ ../sysdeps/unix/sysv/linux/bits/waitflags.h ../bits/waitstatus.h \
+ ../include/alloca.h ../stdlib/alloca.h ../sysdeps/x86_64/stackinfo.h \
+ ../include/elf.h ../elf/elf.h ../sysdeps/generic/stdint.h \
+ ../bits/wchar.h ../sysdeps/generic/dl-dtprocnum.h \
+ ../nptl/sysdeps/pthread/allocalim.h ../include/sys/stat.h \
+ ../io/sys/stat.h ../sysdeps/unix/sysv/linux/x86_64/bits/stat.h \
+ ../include/sys/time.h ../time/sys/time.h \
+ ../sysdeps/unix/sysv/linux/sys/param.h /usr/include/linux/param.h \
+ /usr/include/asm/param.h /usr/include/asm-generic/param.h \
+ ../include/netinet/in.h ../inet/netinet/in.h ../include/sys/socket.h \
+ ../socket/sys/socket.h ../include/sys/uio.h ../misc/sys/uio.h \
+ ../sysdeps/unix/sysv/linux/bits/uio.h \
+ ../sysdeps/unix/sysv/linux/bits/socket.h ../bits/sockaddr.h \
+ /usr/include/asm/socket.h /usr/include/asm-generic/socket.h \
+ /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
+ ../sysdeps/unix/sysv/linux/bits/in.h ../include/rpc/xdr.h \
+ ../sunrpc/rpc/xdr.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/stdio.h:
+
+../libio/stdio.h:
+
+../include/features.h:
+
+../bits/predefs.h:
+
+../include/sys/cdefs.h:
+
+../misc/sys/cdefs.h:
+
+../sysdeps/x86_64/bits/wordsize.h:
+
+../include/gnu/stubs.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+
+../bits/types.h:
+
+../bits/typesizes.h:
+
+../include/libio.h:
+
+../libio/libio.h:
+
+../sysdeps/gnu/_G_config.h:
+
+../include/wchar.h:
+
+../wcsmbs/wchar.h:
+
+../include/gconv.h:
+
+../iconv/gconv.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h:
+
+../include/shlib-compat.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/abi-versions.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/bits/stdio_lim.h:
+
+../sysdeps/unix/sysv/linux/bits/sys_errlist.h:
+
+../libio/bits/stdio.h:
+
+../include/limits.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h:
+
+../include/bits/posix1_lim.h:
+
+../posix/bits/posix1_lim.h:
+
+../nptl/sysdeps/unix/sysv/linux/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+../include/bits/posix2_lim.h:
+
+../posix/bits/posix2_lim.h:
+
+../include/bits/xopen_lim.h:
+
+../include/string.h:
+
+../include/sys/types.h:
+
+../posix/sys/types.h:
+
+../include/time.h:
+
+../time/time.h:
+
+../include/endian.h:
+
+../string/endian.h:
+
+../sysdeps/x86_64/bits/endian.h:
+
+../sysdeps/x86_64/bits/byteswap.h:
+
+../include/sys/select.h:
+
+../misc/sys/select.h:
+
+../sysdeps/x86_64/bits/select.h:
+
+../sysdeps/unix/sysv/linux/bits/sigset.h:
+
+../sysdeps/unix/sysv/linux/bits/time.h:
+
+../sysdeps/unix/sysv/linux/sys/sysmacros.h:
+
+../nptl/sysdeps/unix/sysv/linux/x86_64/bits/pthreadtypes.h:
+
+../string/string.h:
+
+../include/xlocale.h:
+
+../locale/xlocale.h:
+
+../sysdeps/x86_64/bits/string.h:
+
+../include/bits/string2.h:
+
+../string/bits/string2.h:
+
+../include/stdlib.h:
+
+../stdlib/stdlib.h:
+
+../include/libintl.h:
+
+../intl/libintl.h:
+
+../include/locale.h:
+
+../locale/locale.h:
+
+../include/bits/locale.h:
+
+../locale/bits/locale.h:
+
+../include/rpc/types.h:
+
+../sunrpc/rpc/types.h:
+
+../sysdeps/unix/sysv/linux/bits/waitflags.h:
+
+../bits/waitstatus.h:
+
+../include/alloca.h:
+
+../stdlib/alloca.h:
+
+../sysdeps/x86_64/stackinfo.h:
+
+../include/elf.h:
+
+../elf/elf.h:
+
+../sysdeps/generic/stdint.h:
+
+../bits/wchar.h:
+
+../sysdeps/generic/dl-dtprocnum.h:
+
+../nptl/sysdeps/pthread/allocalim.h:
+
+../include/sys/stat.h:
+
+../io/sys/stat.h:
+
+../sysdeps/unix/sysv/linux/x86_64/bits/stat.h:
+
+../include/sys/time.h:
+
+../time/sys/time.h:
+
+../sysdeps/unix/sysv/linux/sys/param.h:
+
+/usr/include/linux/param.h:
+
+/usr/include/asm/param.h:
+
+/usr/include/asm-generic/param.h:
+
+../include/netinet/in.h:
+
+../inet/netinet/in.h:
+
+../include/sys/socket.h:
+
+../socket/sys/socket.h:
+
+../include/sys/uio.h:
+
+../misc/sys/uio.h:
+
+../sysdeps/unix/sysv/linux/bits/uio.h:
+
+../sysdeps/unix/sysv/linux/bits/socket.h:
+
+../bits/sockaddr.h:
+
+/usr/include/asm/socket.h:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/asm/sockios.h:
+
+/usr/include/asm-generic/sockios.h:
+
+../sysdeps/unix/sysv/linux/bits/in.h:
+
+../include/rpc/xdr.h:
+
+../sunrpc/rpc/xdr.h:

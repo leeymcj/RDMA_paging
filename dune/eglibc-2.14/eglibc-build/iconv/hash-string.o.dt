@@ -1,0 +1,15 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/iconv/hash-string.o: \
+ ../intl/hash-string.c /usr/include/stdc-predef.h \
+ ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../intl/hash-string.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../intl/hash-string.h:

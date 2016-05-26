@@ -1,0 +1,26 @@
+CC	= gcc
+CFLAGS	= -Wall -g -MD -O2 -I /usr/src/dune/
+LDLIBS  := ${LDLIBS} -lrdmacm -libverbs -lpthread
+BINARIES = hello
+src = %.c rdma-client.c
+obj = %
+
+$(obj): $(src) /usr/include/linux/kernel.h rdma-client.o rdma-common.o
+	$(CC) $(CFLAGS) -O2 -o $@ rdma-client.o rdma-common.o $< ${LDLIBS}
+
+rdma-client.o: rdma-client.c rdma-client.h
+	$(CC) -Wall -Werror -g   -c -o rdma-client.o rdma-client.c
+
+rdma-common.o: rdma-common.c rdma-common.h
+	$(CC) -Wall -Werror -g   -c -o rdma-common.o rdma-common.c
+
+all: hello rdma-client
+
+hello: hello.o /usr/src/dune/libdune/libdune.a rdma-client.o rdma-common.o
+	$(CC) $(CFLAGS) $(<) -o hello -L /usr/src/dune/libdune -ldune -lpthread
+
+
+clean:
+	rm -f *.o test *.d hello
+
+

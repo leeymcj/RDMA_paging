@@ -1,0 +1,15 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/math/mpatan2.os: \
+ ../sysdeps/ieee754/dbl-64/mpatan2.c /usr/include/stdc-predef.h \
+ ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../sysdeps/ieee754/dbl-64/mpa.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/ieee754/dbl-64/mpa.h:

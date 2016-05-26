@@ -1,0 +1,13 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/math/s_lrintl.o: \
+ ../sysdeps/x86_64/fpu/s_lrintl.S /usr/include/stdc-predef.h \
+ ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

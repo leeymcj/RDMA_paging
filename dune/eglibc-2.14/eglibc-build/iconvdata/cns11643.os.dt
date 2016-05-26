@@ -1,0 +1,31 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/iconvdata/cns11643.os: \
+ cns11643.c /usr/include/stdc-predef.h ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../sysdeps/generic/stdint.h \
+ ../include/features.h ../bits/predefs.h ../include/sys/cdefs.h \
+ ../misc/sys/cdefs.h ../sysdeps/x86_64/bits/wordsize.h \
+ ../include/gnu/stubs.h ../bits/wchar.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/generic/stdint.h:
+
+../include/features.h:
+
+../bits/predefs.h:
+
+../include/sys/cdefs.h:
+
+../misc/sys/cdefs.h:
+
+../sysdeps/x86_64/bits/wordsize.h:
+
+../include/gnu/stubs.h:
+
+../bits/wchar.h:

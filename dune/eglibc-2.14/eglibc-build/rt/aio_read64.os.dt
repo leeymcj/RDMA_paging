@@ -1,0 +1,13 @@
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/rt/aio_read64.os: \
+ ../sysdeps/unix/sysv/linux/wordsize-64/aio_read64.c \
+ /usr/include/stdc-predef.h ../include/libc-symbols.h \
+ /users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+/usr/include/stdc-predef.h:
+
+../include/libc-symbols.h:
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

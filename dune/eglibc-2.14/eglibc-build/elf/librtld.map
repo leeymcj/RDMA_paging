@@ -1,0 +1,1926 @@
+Archive member included because of file (symbol)
+
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os) (__libc_errno)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__sigsetjmp)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__longjmp)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (strchr)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (strcmp)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (strcpy)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (strlen)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (strnlen)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (memchr)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (memcmp)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (memmove)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (memset)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (mempcpy)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (stpcpy)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+                              (memcpy@@GLIBC_2.14)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os) (_wordcopy_fwd_aligned)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (rawmemchr)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os) (__strend_sse4)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os) (__memcpy_ssse3)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os) (__memcpy_ssse3_back)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_back)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os) (__strlen_sse42)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os) (__strlen_no_bsf)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os) (__memset_x86_64)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os) (__x86_64_data_cache_size)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__closedir)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__readdir)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (rewinddir)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os) (__getdents)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__fdopendir)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__uname)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (_exit)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__getpid)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__getuid)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__geteuid)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__getgid)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__getegid)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__environ)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__GI___xstat64)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__GI___fxstat64)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__GI___lxstat64)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os) (__open_nocancel)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os) (__close_nocancel)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__libc_read)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__libc_write)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__access)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__getpagesize)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__mmap)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__munmap)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__mprotect)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__lseek)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os (__profil)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os) (__init_cpu_features)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os) (__GI___sigaction)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os) (__GI_bsearch)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os) (__setitimer)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os) (__GI_exit)
+/users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+                              /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os) (__exit_funcs)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+LOAD /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-redhat-linux/4.8.5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.sharable_data
+ *(.rela.sharable_data)
+
+.rela.sharable_bss
+ *(.rela.sharable_bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.text           0x0000000000000000    0x1b86d
+ *(.text .stub)
+ .text          0x0000000000000000    0x152d2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000000050                _dl_initial_error_catch_tsd
+                0x0000000000006020                _dl_dst_count
+                0x00000000000060d0                _dl_dst_substitute
+                0x00000000000066a0                _dl_init_paths
+                0x0000000000006ac0                _dl_map_object
+                0x0000000000007410                _dl_rtld_di_serinfo
+                0x0000000000007610                _dl_cache_libcmp
+                0x00000000000076f0                _dl_load_cache_lookup
+                0x0000000000007c40                _dl_unload_cache
+                0x0000000000008750                _dl_lookup_symbol_x
+                0x0000000000009790                _dl_setup_hash
+                0x0000000000009840                _dl_add_to_namespace_list
+                0x00000000000098d0                _dl_new_object
+                0x0000000000009c10                _dl_try_allocate_static_tls
+                0x0000000000009cf0                _dl_allocate_static_tls
+                0x0000000000009d20                _dl_nothread_init_static_tls
+                0x0000000000009db0                _dl_protect_relro
+                0x0000000000009e10                _dl_reloc_bad_type
+                0x0000000000009ef0                _dl_relocate_object
+                0x000000000000af20                _dl_map_object_deps
+                0x000000000000c120                _dl_fixup
+                0x000000000000c330                _dl_profile_fixup
+                0x000000000000c8f0                _dl_call_pltexit
+                0x000000000000ca00                _dl_signal_error
+                0x000000000000cb90                _dl_signal_cerror
+                0x000000000000cc10                _dl_catch_error
+                0x000000000000ccf0                _dl_receive_error
+                0x000000000000ce60                _dl_init_internal
+                0x000000000000ce60                _dl_init
+                0x000000000000cf60                _dl_sort_fini
+                0x000000000000d1b0                _dl_fini
+                0x000000000000d5b0                _dl_debug_state
+                0x000000000000d5b0                __GI__dl_debug_state
+                0x000000000000d5c0                _dl_debug_initialize
+                0x000000000000dc00                _dl_sysdep_read_whole_file
+                0x000000000000dc90                _dl_debug_printf
+                0x000000000000dd40                _dl_debug_printf_c
+                0x000000000000ddf0                _dl_dprintf
+                0x000000000000de90                _dl_name_match_p
+                0x000000000000df00                _dl_higher_prime_number
+                0x000000000000e330                _dl_check_map_versions
+                0x000000000000e7c0                _dl_check_all_versions
+                0x000000000000e830                _dl_start_profile
+                0x000000000000f030                _dl_mcount_internal
+                0x000000000000f030                _dl_mcount
+                0x000000000000f260                _dl_resolve_conflicts
+                0x000000000000f420                _dl_next_tls_modid
+                0x000000000000f500                _dl_determine_tlsoffset
+                0x000000000000f6c0                __GI__dl_tls_setup
+                0x000000000000f6c0                _dl_tls_setup
+                0x000000000000f770                _dl_get_tls_static_info
+                0x000000000000f790                _dl_allocate_tls_storage
+                0x000000000000f8d0                __GI__dl_allocate_tls_init
+                0x000000000000f8d0                _dl_allocate_tls_init
+                0x000000000000faf0                __GI__dl_allocate_tls
+                0x000000000000faf0                _dl_allocate_tls
+                0x000000000000fb30                _dl_deallocate_tls
+                0x000000000000fb30                __GI__dl_deallocate_tls
+                0x000000000000fbc0                _dl_update_slotinfo
+                0x000000000000ff10                __tls_get_addr
+                0x000000000000ff70                _dl_tls_get_addr_soft
+                0x000000000000ffe0                _dl_add_to_slotinfo
+                0x00000000000100c0                _dl_get_origin
+                0x0000000000010250                _dl_scope_free
+                0x0000000000010310                _dl_make_stack_executable
+                0x0000000000010310                __GI__dl_make_stack_executable
+                0x0000000000010430                _dl_check_caller
+                0x0000000000010830                _dl_open
+                0x0000000000010bb0                _dl_addr_inside_object
+                0x0000000000011560                _dl_close_worker
+                0x0000000000012450                _dl_close
+                0x00000000000124d0                _dl_runtime_resolve
+                0x0000000000012540                _dl_runtime_profile
+                0x0000000000012aa0                _dl_x86_64_save_sse
+                0x0000000000012b90                _dl_x86_64_restore_sse
+                0x0000000000012c40                _dl_sysdep_start
+                0x0000000000013060                _dl_sysdep_start_cleanup
+                0x0000000000013070                _dl_show_auxv
+                0x0000000000013220                _dl_important_hwcaps
+                0x00000000000139b0                _dl_discover_osversion
+                0x0000000000013b90                _dl_next_ld_env_entry
+                0x0000000000013bd0                unsetenv
+                0x0000000000013c50                __libc_memalign
+                0x0000000000013d60                malloc
+                0x0000000000013d70                calloc
+                0x0000000000013db0                free
+                0x0000000000013de0                __sigjmp_save
+                0x0000000000013df0                __strerror_r
+                0x0000000000013ed0                __GI___assert_fail
+                0x0000000000013ed0                __assert_fail
+                0x0000000000013f20                realloc
+                0x0000000000013fb0                __GI___assert_perror_fail
+                0x0000000000013fb0                __assert_perror_fail
+                0x0000000000014020                __strtoul_internal
+                0x0000000000014190                _itoa
+                0x00000000000141e0                __strsep
+                0x00000000000141e0                strsep
+                0x00000000000141e0                __strsep_g
+                0x0000000000014270                __GI___chk_fail
+                0x0000000000014270                __chk_fail
+                0x0000000000014280                __brk
+                0x0000000000014280                brk
+                0x00000000000142f0                sbrk
+                0x00000000000142f0                __sbrk
+                0x0000000000014380                __getcwd
+                0x0000000000014380                getcwd
+                0x00000000000149b0                openat64
+                0x0000000000014a10                __alloc_dir
+                0x0000000000014b00                __opendir
+                0x0000000000014b00                opendir
+                0x0000000000014b40                __fxstatat
+                0x0000000000014b40                __fxstatat64
+                0x0000000000014b40                __GI___fxstatat64
+                0x0000000000014bc0                _dl_make_tlsdesc_dynamic
+                0x0000000000014e90                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015070                _dl_tlsdesc_resolve_hold_fixup
+                0x00000000000150b0                _dl_unmap
+                0x0000000000015130                _dl_tlsdesc_return
+                0x0000000000015140                _dl_tlsdesc_undefweak
+                0x0000000000015150                _dl_tlsdesc_dynamic
+                0x00000000000151f0                _dl_tlsdesc_resolve_rela
+                0x0000000000015260                _dl_tlsdesc_resolve_hold
+ *fill*         0x00000000000152d2        0xe 
+ .text          0x00000000000152e0       0xe2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+                0x0000000000015390                __libc_check_standard_fds
+ *fill*         0x00000000000153c2        0x2 
+ .text          0x00000000000153c4        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ *fill*         0x00000000000153c4        0xc 
+ .text          0x00000000000153d0       0x57 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+                0x00000000000153d0                __sigsetjmp
+                0x00000000000153d0                __GI___sigsetjmp
+ *fill*         0x0000000000015427        0x9 
+ .text          0x0000000000015430       0x50 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+                0x0000000000015430                __longjmp
+ .text          0x0000000000015480       0xac /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+                0x0000000000015480                index
+                0x0000000000015480                strchr
+                0x00000000000154b0                __GI_strchr
+ *fill*         0x000000000001552c        0x4 
+ .text          0x0000000000015530     0x1479 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+                0x0000000000015530                strcmp
+                0x0000000000015570                __GI_strcmp
+ *fill*         0x00000000000169a9        0x7 
+ .text          0x00000000000169b0      0x10c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+                0x00000000000169b0                strcpy
+                0x00000000000169e0                __GI_strcpy
+ *fill*         0x0000000000016abc        0x4 
+ .text          0x0000000000016ac0      0x11d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+                0x0000000000016ac0                strlen
+                0x0000000000016b00                __GI_strlen
+ *fill*         0x0000000000016bdd        0x3 
+ .text          0x0000000000016be0       0x6d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+                0x0000000000016be0                __strnlen
+                0x0000000000016be0                strnlen
+                0x0000000000016be0                __GI_strnlen
+ *fill*         0x0000000000016c4d        0x3 
+ .text          0x0000000000016c50       0x75 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+                0x0000000000016c50                __GI_memchr
+                0x0000000000016c50                memchr
+                0x0000000000016c50                __memchr
+ *fill*         0x0000000000016cc5        0xb 
+ .text          0x0000000000016cd0      0x430 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+                0x0000000000016cd0                bcmp
+                0x0000000000016cd0                memcmp
+                0x0000000000016d00                __GI_memcmp
+ .text          0x0000000000017100      0x1e7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+                0x0000000000017100                __GI_memmove
+                0x0000000000017100                __memmove_sse2
+                0x00000000000172a0                memmove
+                0x00000000000172a0                memcpy@GLIBC_2.2.5
+ *fill*         0x00000000000172e7        0x9 
+ .text          0x00000000000172f0      0xb50 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+                0x00000000000172f0                memset
+                0x0000000000017320                __memset_chk_sse2
+                0x0000000000017330                __GI_memset
+                0x0000000000017330                __memset_sse2
+ .text          0x0000000000017e40      0x4a2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+                0x0000000000017e40                mempcpy
+                0x0000000000017e40                __mempcpy
+                0x0000000000017e80                __mempcpy_chk_sse2
+                0x0000000000017e90                __GI_mempcpy
+                0x0000000000017e90                __GI___mempcpy
+ *fill*         0x00000000000182e2        0xe 
+ .text          0x00000000000182f0      0x10c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+                0x00000000000182f0                stpcpy
+                0x00000000000182f0                __stpcpy
+                0x0000000000018320                __GI_stpcpy
+                0x0000000000018320                __GI___stpcpy
+ *fill*         0x00000000000183fc        0x4 
+ .text          0x0000000000018400      0x4b5 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+                0x0000000000018400                __new_memcpy
+                0x0000000000018400                memcpy@@GLIBC_2.14
+                0x0000000000018440                __memcpy_chk_sse2
+                0x0000000000018450                __GI_memcpy
+ *fill*         0x00000000000188b5        0xb 
+ .text          0x00000000000188c0      0x556 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+                0x00000000000188c0                _wordcopy_fwd_aligned
+                0x0000000000018a00                _wordcopy_fwd_dest_aligned
+                0x0000000000018b30                _wordcopy_bwd_aligned
+                0x0000000000018cc0                _wordcopy_bwd_dest_aligned
+ *fill*         0x0000000000018e16        0xa 
+ .text          0x0000000000018e20       0x7c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+                0x0000000000018e20                __rawmemchr
+                0x0000000000018e20                rawmemchr
+                0x0000000000018e50                __GI___rawmemchr
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .text          0x0000000000018e9c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ *fill*         0x0000000000018e9c        0x4 
+ .text          0x0000000000018ea0      0x560 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+                0x0000000000018ea0                __memset_chk_x86_64
+                0x0000000000018eb0                __memset_x86_64
+ .text          0x0000000000019400      0x5e7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+                0x0000000000019990                __cache_sysconf
+ *fill*         0x00000000000199e7        0x9 
+ .text          0x00000000000199f0       0x2c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+                0x00000000000199f0                __closedir
+                0x00000000000199f0                closedir
+ *fill*         0x0000000000019a1c        0x4 
+ .text          0x0000000000019a20      0x10d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+                0x0000000000019a20                readdir
+                0x0000000000019a20                __readdir64
+                0x0000000000019a20                __readdir
+                0x0000000000019a20                readdir64
+ *fill*         0x0000000000019b2d        0x3 
+ .text          0x0000000000019b30       0x90 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+                0x0000000000019b30                rewinddir
+                0x0000000000019b30                __GI_rewinddir
+ .text          0x0000000000019bc0      0x237 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+                0x0000000000019bc0                __getdents
+                0x0000000000019bc0                __getdents64
+ *fill*         0x0000000000019df7        0x9 
+ .text          0x0000000000019e00       0x87 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+                0x0000000000019e00                fdopendir
+                0x0000000000019e00                __fdopendir
+ *fill*         0x0000000000019e87        0x9 
+ .text          0x0000000000019e90       0x37 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+                0x0000000000019e90                uname
+                0x0000000000019e90                __GI_uname
+                0x0000000000019e90                __uname
+                0x0000000000019e90                __GI___uname
+ *fill*         0x0000000000019ec7        0x9 
+ .text          0x0000000000019ed0       0x79 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+                0x0000000000019ed0                _Exit
+                0x0000000000019ed0                __GI__exit
+                0x0000000000019ed0                _exit
+ *fill*         0x0000000000019f49        0x7 
+ .text          0x0000000000019f50       0x4d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+                0x0000000000019f50                __getpid
+                0x0000000000019f50                getpid
+                0x0000000000019f50                __GI_getpid
+                0x0000000000019f50                __GI___getpid
+ *fill*         0x0000000000019f9d        0x3 
+ .text          0x0000000000019fa0       0x1a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+                0x0000000000019fa0                getuid
+                0x0000000000019fa0                __getuid
+                0x0000000000019fa0                __GI___getuid
+                0x0000000000019fa0                __GI_getuid
+ *fill*         0x0000000000019fba        0x6 
+ .text          0x0000000000019fc0       0x1a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+                0x0000000000019fc0                geteuid
+                0x0000000000019fc0                __GI___geteuid
+                0x0000000000019fc0                __GI_geteuid
+                0x0000000000019fc0                __geteuid
+ *fill*         0x0000000000019fda        0x6 
+ .text          0x0000000000019fe0       0x1a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+                0x0000000000019fe0                getgid
+                0x0000000000019fe0                __getgid
+                0x0000000000019fe0                __GI_getgid
+                0x0000000000019fe0                __GI___getgid
+ *fill*         0x0000000000019ffa        0x6 
+ .text          0x000000000001a000       0x1a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+                0x000000000001a000                getegid
+                0x000000000001a000                __getegid
+                0x000000000001a000                __GI_getegid
+                0x000000000001a000                __GI___getegid
+ *fill*         0x000000000001a01a        0x2 
+ .text          0x000000000001a01c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ *fill*         0x000000000001a01c        0x4 
+ .text          0x000000000001a020       0x5d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+                0x000000000001a020                _xstat
+                0x000000000001a020                __xstat64
+                0x000000000001a020                __GI___xstat64
+                0x000000000001a020                __GI___xstat
+                0x000000000001a020                __xstat
+ *fill*         0x000000000001a07d        0x3 
+ .text          0x000000000001a080       0x55 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+                0x000000000001a080                __GI___fxstat
+                0x000000000001a080                __GI___fxstat64
+                0x000000000001a080                __fxstat64
+                0x000000000001a080                _fxstat
+                0x000000000001a080                __fxstat
+ *fill*         0x000000000001a0d5        0xb 
+ .text          0x000000000001a0e0       0x5d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+                0x000000000001a0e0                __GI___lxstat
+                0x000000000001a0e0                _lxstat
+                0x000000000001a0e0                __lxstat
+                0x000000000001a0e0                __lxstat64
+                0x000000000001a0e0                __GI___lxstat64
+ *fill*         0x000000000001a13d        0x3 
+ .text          0x000000000001a140       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+                0x000000000001a140                __GI___open64
+                0x000000000001a140                __open
+                0x000000000001a140                __GI_open
+                0x000000000001a140                __GI___open
+                0x000000000001a140                __GI_open64
+                0x000000000001a140                __libc_open
+                0x000000000001a140                open64
+                0x000000000001a140                __GI___libc_open
+                0x000000000001a140                open
+                0x000000000001a140                __open64
+                0x000000000001a149                __open_nocancel
+ *fill*         0x000000000001a1c2        0xe 
+ .text          0x000000000001a1d0       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+                0x000000000001a1d0                __GI_close
+                0x000000000001a1d0                __GI___libc_close
+                0x000000000001a1d0                __libc_close
+                0x000000000001a1d0                __close
+                0x000000000001a1d0                __GI___close
+                0x000000000001a1d0                close
+                0x000000000001a1d9                __close_nocancel
+ *fill*         0x000000000001a252        0xe 
+ .text          0x000000000001a260       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+                0x000000000001a260                __read
+                0x000000000001a260                __GI_read
+                0x000000000001a260                __libc_read
+                0x000000000001a260                __GI___read
+                0x000000000001a260                read
+                0x000000000001a260                __GI___libc_read
+                0x000000000001a269                __read_nocancel
+ *fill*         0x000000000001a2e2        0xe 
+ .text          0x000000000001a2f0       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+                0x000000000001a2f0                __write
+                0x000000000001a2f0                __GI_write
+                0x000000000001a2f0                write
+                0x000000000001a2f0                __GI___libc_write
+                0x000000000001a2f0                __GI___write
+                0x000000000001a2f0                __libc_write
+                0x000000000001a2f9                __write_nocancel
+ *fill*         0x000000000001a372        0xe 
+ .text          0x000000000001a380       0x37 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+                0x000000000001a380                __GI_access
+                0x000000000001a380                __GI___access
+                0x000000000001a380                access
+                0x000000000001a380                __access
+ *fill*         0x000000000001a3b7        0x9 
+ .text          0x000000000001a3c0      0x1b3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+                0x000000000001a4d0                __fcntl_nocancel
+                0x000000000001a500                __libc_fcntl
+                0x000000000001a500                __GI___libc_fcntl
+                0x000000000001a500                __GI___fcntl
+                0x000000000001a500                __fcntl
+                0x000000000001a500                fcntl
+ *fill*         0x000000000001a573        0xd 
+ .text          0x000000000001a580       0x17 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+                0x000000000001a580                getpagesize
+                0x000000000001a580                __GI___getpagesize
+                0x000000000001a580                __getpagesize
+ *fill*         0x000000000001a597        0x9 
+ .text          0x000000000001a5a0       0x3a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+                0x000000000001a5a0                __GI___mmap
+                0x000000000001a5a0                __GI_mmap64
+                0x000000000001a5a0                __mmap
+                0x000000000001a5a0                mmap
+                0x000000000001a5a0                __GI___mmap64
+                0x000000000001a5a0                __mmap64
+                0x000000000001a5a0                __GI_mmap
+                0x000000000001a5a0                mmap64
+ *fill*         0x000000000001a5da        0x6 
+ .text          0x000000000001a5e0       0x37 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+                0x000000000001a5e0                munmap
+                0x000000000001a5e0                __GI___munmap
+                0x000000000001a5e0                __GI_munmap
+                0x000000000001a5e0                __munmap
+ *fill*         0x000000000001a617        0x9 
+ .text          0x000000000001a620       0x37 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+                0x000000000001a620                __mprotect
+                0x000000000001a620                __GI___mprotect
+                0x000000000001a620                __GI_mprotect
+                0x000000000001a620                mprotect
+ *fill*         0x000000000001a657        0x9 
+ .text          0x000000000001a660       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+                0x000000000001a660                __GI___lseek
+                0x000000000001a660                __GI_lseek64
+                0x000000000001a660                __llseek
+                0x000000000001a660                __GI_llseek
+                0x000000000001a660                __lseek64
+                0x000000000001a660                lseek
+                0x000000000001a660                __libc_lseek64
+                0x000000000001a660                __GI___libc_lseek64
+                0x000000000001a660                __GI___libc_lseek
+                0x000000000001a660                llseek
+                0x000000000001a660                __lseek
+                0x000000000001a660                __GI___lseek64
+                0x000000000001a660                __libc_lseek
+                0x000000000001a660                __GI___llseek
+                0x000000000001a660                __GI_lseek
+                0x000000000001a660                lseek64
+                0x000000000001a669                __lseek_nocancel
+ *fill*         0x000000000001a6e2        0xe 
+ .text          0x000000000001a6f0      0x1ce /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+                0x000000000001a740                __profil
+                0x000000000001a740                profil
+ *fill*         0x000000000001a8be        0x2 
+ .text          0x000000000001a8c0       0x7b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+                0x000000000001a8c0                __GI___profile_frequency
+                0x000000000001a8c0                __profile_frequency
+ *fill*         0x000000000001a93b        0x5 
+ .text          0x000000000001a940       0x52 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001a940                __lll_lock_wait_private
+                0x000000000001a970                __lll_unlock_wake_private
+ *fill*         0x000000000001a992        0xe 
+ .text          0x000000000001a9a0       0xbc /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+                0x000000000001a9a0                __libc_enable_asynccancel
+                0x000000000001aa00                __libc_disable_asynccancel
+ .text          0x000000000001aa5c        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001aa5c        0x4 
+ .text          0x000000000001aa60      0x1a7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+                0x000000000001aa60                __init_cpu_features
+                0x000000000001abf0                __get_cpu_features
+ *fill*         0x000000000001ac07        0x9 
+ .text          0x000000000001ac10      0x23f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+                0x000000000001ac30                __libc_sigaction
+                0x000000000001ac30                __GI___libc_sigaction
+                0x000000000001ae30                sigaction
+                0x000000000001ae30                __GI___sigaction
+                0x000000000001ae30                __sigaction
+ *fill*         0x000000000001ae4f        0x1 
+ .text          0x000000000001ae50       0x8a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+                0x000000000001ae50                bsearch
+                0x000000000001ae50                __GI_bsearch
+ *fill*         0x000000000001aeda        0x6 
+ .text          0x000000000001aee0       0x37 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+                0x000000000001aee0                setitimer
+                0x000000000001aee0                __setitimer
+                0x000000000001aee0                __GI_setitimer
+                0x000000000001aee0                __GI___setitimer
+ *fill*         0x000000000001af17        0x9 
+ .text          0x000000000001af20      0x5c6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+                0x000000000001af20                pthread_equal
+                0x000000000001af50                pthread_attr_destroy
+                0x000000000001af80                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001af80                __pthread_attr_init_2_1
+                0x000000000001afb0                pthread_attr_getdetachstate
+                0x000000000001afe0                pthread_attr_setdetachstate
+                0x000000000001b010                pthread_attr_getinheritsched
+                0x000000000001b040                pthread_attr_setinheritsched
+                0x000000000001b070                pthread_attr_getschedparam
+                0x000000000001b0a0                pthread_attr_setschedparam
+                0x000000000001b0d0                pthread_attr_getschedpolicy
+                0x000000000001b100                pthread_attr_setschedpolicy
+                0x000000000001b130                pthread_attr_getscope
+                0x000000000001b160                pthread_attr_setscope
+                0x000000000001b190                pthread_condattr_destroy
+                0x000000000001b1c0                pthread_condattr_init
+                0x000000000001b1f0                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001b1f0                __pthread_cond_broadcast
+                0x000000000001b220                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001b220                __pthread_cond_destroy
+                0x000000000001b250                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001b250                __pthread_cond_init
+                0x000000000001b280                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001b280                __pthread_cond_signal
+                0x000000000001b2b0                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001b2b0                __pthread_cond_wait
+                0x000000000001b2e0                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001b2e0                __pthread_cond_timedwait
+                0x000000000001b310                pthread_exit
+                0x000000000001b310                __pthread_exit
+                0x000000000001b340                pthread_getschedparam
+                0x000000000001b370                pthread_setschedparam
+                0x000000000001b3a0                pthread_mutex_destroy
+                0x000000000001b3d0                pthread_mutex_init
+                0x000000000001b400                pthread_mutex_lock
+                0x000000000001b430                pthread_mutex_unlock
+                0x000000000001b460                pthread_self
+                0x000000000001b490                pthread_setcancelstate
+                0x000000000001b4c0                pthread_setcanceltype
+ *fill*         0x000000000001b4e6        0xa 
+ .text          0x000000000001b4f0      0x125 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+                0x000000000001b4f0                __run_exit_handlers
+                0x000000000001b600                __GI_exit
+                0x000000000001b600                exit
+ *fill*         0x000000000001b615        0xb 
+ .text          0x000000000001b620      0x24d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+                0x000000000001b620                __new_exitfn
+                0x000000000001b790                __internal_atexit
+                0x000000000001b7e0                __cxa_atexit_internal
+                0x000000000001b7e0                __cxa_atexit
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x64d
+ .text.unlikely
+                0x0000000000000000      0x64d /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+
+.text.sse4.2    0x0000000000000000     0x108a
+ .text.sse4.2   0x0000000000000000       0xa5 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ *fill*         0x00000000000000a5        0xb 
+ .text.sse4.2   0x00000000000000b0      0xe99 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ *fill*         0x0000000000000f49        0x7 
+ .text.sse4.2   0x0000000000000f50       0x53 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ *fill*         0x0000000000000fa3        0xd 
+ .text.sse4.2   0x0000000000000fb0       0x3c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+                0x0000000000000fb0                __strend_sse4
+ *fill*         0x0000000000000fec        0x4 
+ .text.sse4.2   0x0000000000000ff0       0x9a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+                0x0000000000000ff0                __strlen_sse42
+
+.text.ssse3     0x0000000000000000    0x12766
+ .text.ssse3    0x0000000000000000      0xa10 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ *fill*         0x0000000000000a10       0x10 
+ .text.ssse3    0x0000000000000a20      0xb10 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .text.ssse3    0x0000000000001530     0x1259 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000001530                __GI___strcmp_ssse3
+                0x0000000000001530                __strcmp_ssse3
+ *fill*         0x0000000000002789        0x7 
+ .text.ssse3    0x0000000000002790     0x29c6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000002790                __memcpy_chk_ssse3
+                0x00000000000027a0                __memcpy_ssse3
+ *fill*         0x0000000000005156        0xa 
+ .text.ssse3    0x0000000000005160     0x29c6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+                0x0000000000005160                __mempcpy_chk_ssse3
+                0x0000000000005170                __mempcpy_ssse3
+ *fill*         0x0000000000007b26        0xa 
+ .text.ssse3    0x0000000000007b30     0x2b77 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000007b30                __memmove_chk_ssse3
+                0x0000000000007b40                __memmove_ssse3
+ *fill*         0x000000000000a6a7        0x9 
+ .text.ssse3    0x000000000000a6b0     0x2ac6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+                0x000000000000a6b0                __memcpy_chk_ssse3_back
+                0x000000000000a6c0                __memcpy_ssse3_back
+ *fill*         0x000000000000d176        0xa 
+ .text.ssse3    0x000000000000d180     0x2ac6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+                0x000000000000d180                __mempcpy_chk_ssse3_back
+                0x000000000000d190                __mempcpy_ssse3_back
+ *fill*         0x000000000000fc46        0xa 
+ .text.ssse3    0x000000000000fc50     0x2b16 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+                0x000000000000fc50                __memmove_chk_ssse3_back
+                0x000000000000fc60                __memmove_ssse3_back
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.slow      0x0000000000000000      0x2fc
+ .text.slow     0x0000000000000000      0x2fc /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+                0x0000000000000000                __strlen_no_bsf
+
+.text.startup   0x0000000000000000      0x25e
+ .text.startup  0x0000000000000000      0x25e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x168
+ .text.compat   0x0000000000000000      0x168 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x1240
+ *(.rodata)
+ .rodata        0x0000000000000000      0xa70 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+                0x0000000000000a60                _itoa_lower_digits_internal
+ .rodata        0x0000000000000a70       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000ab0      0x2d0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .rodata        0x0000000000000d80       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .rodata        0x0000000000000dc0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000e00      0x150 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ *fill*         0x0000000000000f50       0x10 
+ .rodata        0x0000000000000f60      0x2e0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000     0x1041
+ .rodata.str1.1
+                0x0000000000000000      0xfa3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000fa3       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000fb7       0x42 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000ff9       0x1d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .rodata.str1.1
+                0x0000000000001016       0x2b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x24de
+ .rodata.str1.8
+                0x0000000000000000     0x2481 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ *fill*         0x0000000000002481        0x7 
+ .rodata.str1.8
+                0x0000000000002488       0x2b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ *fill*         0x00000000000024b3        0x5 
+ .rodata.str1.8
+                0x00000000000024b8       0x26 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x3e1
+ .rodata.str1.16
+                0x0000000000000000      0x3c3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ *fill*         0x00000000000003c3        0xd 
+ .rodata.str1.16
+                0x00000000000003d0       0x11 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000      0x121
+ .rodata.str1.32
+                0x0000000000000000      0x121 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+
+.rodata.ssse3   0x0000000000000000     0x15c0
+ .rodata.ssse3  0x0000000000000000       0xc0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .rodata.ssse3  0x00000000000000c0       0xc0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .rodata.ssse3  0x0000000000000180      0x1c0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x0000000000000340      0x1c0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .rodata.ssse3  0x0000000000000500      0x1c0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x00000000000006c0      0x500 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .rodata.ssse3  0x0000000000000bc0      0x500 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .rodata.ssse3  0x00000000000010c0      0x500 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3780
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x1de8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .eh_frame      0x0000000000001de8       0x68 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .eh_frame      0x0000000000001e50       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000001e80       0x48 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000001ec8       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .eh_frame      0x0000000000001f20       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .eh_frame      0x0000000000001f78       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .eh_frame      0x0000000000001fd0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .eh_frame      0x0000000000002010       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002040       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002070       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .eh_frame      0x00000000000020b0       0x78 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .eh_frame      0x0000000000002128       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .eh_frame      0x0000000000002180       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .eh_frame      0x0000000000002200       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000002258       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000022d8       0xa0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .eh_frame      0x0000000000002378       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x00000000000023d0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002400       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .eh_frame      0x0000000000002430       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002460       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .eh_frame      0x00000000000024a0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .eh_frame      0x00000000000024e0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .eh_frame      0x0000000000002520       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .eh_frame      0x0000000000002560       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .eh_frame      0x00000000000025a0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .eh_frame      0x00000000000025e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .eh_frame      0x0000000000002610       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .eh_frame      0x0000000000002640       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .eh_frame      0x0000000000002680      0x1a0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .eh_frame      0x0000000000002820       0x38 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000002858      0x128 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .eh_frame      0x0000000000002980      0x108 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000002a88       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000002ae0       0x48 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000002b28       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000002b58       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000002b88       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000002bb8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .eh_frame      0x0000000000002be8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .eh_frame      0x0000000000002c18       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .eh_frame      0x0000000000002c48       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .eh_frame      0x0000000000002c78       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000002ca8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000002cd8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .eh_frame      0x0000000000002d08       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .eh_frame      0x0000000000002d38       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000002d68       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000002d98       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000002dc8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .eh_frame      0x0000000000002df8       0x70 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .eh_frame      0x0000000000002e68       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .eh_frame      0x0000000000002e98       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .eh_frame      0x0000000000002ec8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000002ef8       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000002f28       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .eh_frame      0x0000000000002f58       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000002fd8       0x50 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003028       0x60 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .eh_frame      0x0000000000003088       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .eh_frame      0x00000000000030c8       0x50 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .eh_frame      0x0000000000003118       0xe8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .eh_frame      0x0000000000003200       0x78 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .eh_frame      0x0000000000003278       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .eh_frame      0x00000000000032a8      0x310 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .eh_frame      0x00000000000035b8       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .eh_frame      0x0000000000003610      0x170 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000        0x4
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfc8
+ *(.data)
+ .data          0x0000000000000000      0xf84 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .data          0x0000000000000f84        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ *fill*         0x0000000000000f84        0x4 
+ .data          0x0000000000000f88       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f88                __x86_64_raw_shared_cache_size
+                0x0000000000000f90                __x86_64_raw_shared_cache_size_half
+                0x0000000000000f98                __x86_64_shared_cache_size
+                0x0000000000000fa0                __x86_64_shared_cache_size_half
+                0x0000000000000fa8                __x86_64_raw_data_cache_size
+                0x0000000000000fb0                __x86_64_raw_data_cache_size_half
+                0x0000000000000fb8                __x86_64_data_cache_size
+                0x0000000000000fc0                __x86_64_data_cache_size_half
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .data          0x0000000000000fc8        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.data.rel.ro    0x0000000000000000      0x284
+ .data.rel.ro   0x0000000000000000      0x284 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x00000000000001f8                __pointer_chk_guard_local
+                0x0000000000000200                _dl_skip_args
+                0x0000000000000208                _dl_argv_internal
+                0x0000000000000208                _dl_argv
+                0x0000000000000210                _dl_argc
+                0x0000000000000260                __stack_prot
+                0x0000000000000268                _dl_random
+                0x0000000000000278                __libc_stack_end
+                0x0000000000000278                __GI___libc_stack_end
+                0x0000000000000280                __libc_enable_secure_internal
+                0x0000000000000280                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.sharable_data
+ *(.sharable_data)
+
+.bss            0x0000000000000000      0x634
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x124 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+                0x00000000000000f8                __libc_multiple_libcs
+                0x0000000000000118                __curbrk
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .bss           0x0000000000000124        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ *fill*         0x0000000000000124        0x4 
+ .bss           0x0000000000000128        0x8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+                0x0000000000000128                _environ
+                0x0000000000000128                __environ
+                0x0000000000000128                environ
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .bss           0x0000000000000130        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .bss           0x0000000000000130        0x4 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000134        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .bss           0x0000000000000134        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .bss           0x0000000000000134        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000134        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000134        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ *fill*         0x0000000000000134        0xc 
+ .bss           0x0000000000000140       0xe0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .bss           0x0000000000000220        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .bss           0x0000000000000220      0x414 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+ *(COMMON)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000634        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.sharable_bss
+ *(.dynsharablebss)
+ *(.sharable_bss)
+ *(SHARABLE_COMMON)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xa8c
+ *(.comment)
+ .comment       0x0000000000000000      0x5cd /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .comment       0x00000000000005cd       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .comment       0x00000000000005fa       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .comment       0x0000000000000627       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .comment       0x0000000000000654       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .comment       0x0000000000000681       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .comment       0x00000000000006ae       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .comment       0x00000000000006db       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .comment       0x0000000000000708       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .comment       0x0000000000000735       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .comment       0x0000000000000762       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .comment       0x000000000000078f       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .comment       0x00000000000007bc       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .comment       0x00000000000007e9       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .comment       0x0000000000000816       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000843       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000870       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .comment       0x000000000000089d       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .comment       0x00000000000008ca       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .comment       0x00000000000008f7       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .comment       0x0000000000000924       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000951       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x000000000000097e       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .comment       0x00000000000009ab       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .comment       0x00000000000009d8       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .comment       0x0000000000000a05       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .comment       0x0000000000000a32       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .comment       0x0000000000000a5f       0x2d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x14a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x6e0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000006e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000710       0x20 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000730       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x0000000000000760       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x0000000000000790       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x00000000000007d0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x0000000000000810       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .debug_aranges
+                0x0000000000000850       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x0000000000000880       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000008b0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x00000000000008e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000910       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000940       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000970       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x00000000000009a0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x00000000000009e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_aranges
+                0x0000000000000a40       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000a80       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000ab0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .debug_aranges
+                0x0000000000000ae0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000b10       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b40       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b70       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000ba0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000bd0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000c00       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000c30       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .debug_aranges
+                0x0000000000000c60       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .debug_aranges
+                0x0000000000000c90       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .debug_aranges
+                0x0000000000000cc0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .debug_aranges
+                0x0000000000000f40       0x20 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x0000000000000f60       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000000f90       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000000fc0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000000ff0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .debug_aranges
+                0x0000000000001020       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .debug_aranges
+                0x0000000000001050       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001080       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .debug_aranges
+                0x00000000000010b0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .debug_aranges
+                0x00000000000010e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001290       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x00000000000012c0       0x20 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000012e0       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_aranges
+                0x0000000000001310       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x0000000000001340       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_aranges
+                0x0000000000001370       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x00000000000013a0       0xa0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x0000000000001470       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x5c970
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x4d854 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_info    0x000000000004d854      0x566 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_info    0x000000000004ddba      0x1b3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .debug_info    0x000000000004df6d       0x7c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .debug_info    0x000000000004dfe9       0x7f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .debug_info    0x000000000004e068       0x7a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .debug_info    0x000000000004e0e2       0x7a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000004e15c       0x7a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .debug_info    0x000000000004e1d6       0x86 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .debug_info    0x000000000004e25c       0x7d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .debug_info    0x000000000004e2d9       0x7c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .debug_info    0x000000000004e355       0x86 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .debug_info    0x000000000004e3db      0x430 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_info    0x000000000004e80b       0x86 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .debug_info    0x000000000004e891       0x87 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .debug_info    0x000000000004e918       0x7a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .debug_info    0x000000000004e992       0x86 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .debug_info    0x000000000004ea18      0x419 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_info    0x000000000004ee31       0x7d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x000000000004eeae       0x89 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x000000000004ef37       0x8b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .debug_info    0x000000000004efc2       0x8b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x000000000004f04d       0x8c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x000000000004f0d9       0x8c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .debug_info    0x000000000004f165       0x8c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x000000000004f1f1       0x91 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_info    0x000000000004f282       0x91 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .debug_info    0x000000000004f313       0x91 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x000000000004f3a4       0x8b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .debug_info    0x000000000004f42f       0x8d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .debug_info    0x000000000004f4bc       0x89 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .debug_info    0x000000000004f545     0x1133 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x0000000000050678      0x2d8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_info    0x0000000000050950      0x3d7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_info    0x0000000000050d27      0x2f7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_info    0x000000000005101e      0x711 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_info    0x000000000005172f      0x4cb /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_info    0x0000000000051bfa       0x83 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .debug_info    0x0000000000051c7d      0x26d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_info    0x0000000000051eea      0x2b0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_info    0x000000000005219a       0x83 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .debug_info    0x000000000005221d       0x83 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .debug_info    0x00000000000522a0       0x83 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .debug_info    0x0000000000052323       0x83 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .debug_info    0x00000000000523a6       0xaf /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .debug_info    0x0000000000052455      0x3d8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_info    0x000000000005282d      0x3cc /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_info    0x0000000000052bf9      0x3d8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_info    0x0000000000052fd1       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .debug_info    0x0000000000053051       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .debug_info    0x00000000000530d1       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .debug_info    0x0000000000053151       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .debug_info    0x00000000000531d1       0x80 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .debug_info    0x0000000000053251      0x79e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_info    0x00000000000539ef     0x1a5d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .debug_info    0x000000000005544c       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .debug_info    0x00000000000554ce       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .debug_info    0x0000000000055550       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .debug_info    0x00000000000555d2       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .debug_info    0x0000000000055654      0xb7e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_info    0x00000000000561d2     0x1b5f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .debug_info    0x0000000000057d31       0x95 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x0000000000057dc6       0x95 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x0000000000057e5b      0x283 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00000000000580de      0x465 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_info    0x0000000000058543      0x6ed /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_info    0x0000000000058c30      0x1c6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_info    0x0000000000058df6       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .debug_info    0x0000000000058e78     0x2707 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_info    0x000000000005b57f      0xdb9 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_info    0x000000000005c338      0x638 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_abbrev   0x0000000000000000     0xae2f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x7be0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000007be0      0x20d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x0000000000007ded       0xc7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .debug_abbrev  0x0000000000007eb4       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x0000000000007ec8       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x0000000000007edc       0x12 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x0000000000007eee       0x12 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x0000000000007f00       0x12 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .debug_abbrev  0x0000000000007f12       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x0000000000007f26       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x0000000000007f3a       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x0000000000007f4e       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x0000000000007f62      0x1b5 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x0000000000008117       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .debug_abbrev  0x000000000000812b       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x000000000000813f       0x12 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x0000000000008151       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x0000000000008165      0x119 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_abbrev  0x000000000000827e       0x12 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x0000000000008290       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x00000000000082a4       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .debug_abbrev  0x00000000000082b8       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x00000000000082cc       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x00000000000082e0       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .debug_abbrev  0x00000000000082f4       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x0000000000008308       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_abbrev  0x000000000000831c       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .debug_abbrev  0x0000000000008330       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x0000000000008344       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .debug_abbrev  0x0000000000008358       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .debug_abbrev  0x000000000000836c       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .debug_abbrev  0x0000000000008380      0x305 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x0000000000008685      0x16d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x00000000000087f2      0x187 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x0000000000008979      0x146 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x0000000000008abf      0x254 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x0000000000008d13      0x17d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x0000000000008e90       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .debug_abbrev  0x0000000000008ea4      0x13c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x0000000000008fe0      0x179 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x0000000000009159       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .debug_abbrev  0x000000000000916d       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .debug_abbrev  0x0000000000009181       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .debug_abbrev  0x0000000000009195       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .debug_abbrev  0x00000000000091a9       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .debug_abbrev  0x00000000000091e9      0x135 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x000000000000931e      0x135 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x0000000000009453      0x135 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x0000000000009588       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .debug_abbrev  0x000000000000959c       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .debug_abbrev  0x00000000000095b0       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .debug_abbrev  0x00000000000095c4       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .debug_abbrev  0x00000000000095d8       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .debug_abbrev  0x00000000000095ec      0x28b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x0000000000009877      0x23b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .debug_abbrev  0x0000000000009ab2       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .debug_abbrev  0x0000000000009ac6       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x0000000000009ada       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x0000000000009aee       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .debug_abbrev  0x0000000000009b02      0x2be /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_abbrev  0x0000000000009dc0      0x285 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x000000000000a045       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000000a059       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x000000000000a06d       0xfd /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x000000000000a16a      0x1c3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_abbrev  0x000000000000a32d      0x1d0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x000000000000a4fd      0x11d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_abbrev  0x000000000000a61a       0x14 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x000000000000a62e      0x30c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_abbrev  0x000000000000a93a      0x27c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_abbrev  0x000000000000abb6      0x279 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_line     0x0000000000000000    0x12e67
+ *(.debug_line)
+ .debug_line    0x0000000000000000     0x9ae9 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_line    0x0000000000009ae9      0x1e0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_line    0x0000000000009cc9       0x91 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .debug_line    0x0000000000009d5a       0x5e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setjmp.os)
+ .debug_line    0x0000000000009db8       0x61 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(__longjmp.os)
+ .debug_line    0x0000000000009e19       0xf6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .debug_line    0x0000000000009f0f      0x7ee /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .debug_line    0x000000000000a6fd      0x382 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .debug_line    0x000000000000aa7f       0xce /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen.os)
+ .debug_line    0x000000000000ab4d       0x70 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strnlen.os)
+ .debug_line    0x000000000000abbd       0x72 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memchr.os)
+ .debug_line    0x000000000000ac2f      0x18d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp.os)
+ .debug_line    0x000000000000adbc      0x179 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_line    0x000000000000af35      0x2d7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset.os)
+ .debug_line    0x000000000000b20c      0x19b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy.os)
+ .debug_line    0x000000000000b3a7      0x3a2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .debug_line    0x000000000000b749      0x1a9 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000000b8f2      0x1ca /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_line    0x000000000000babc       0xd5 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x000000000000bb91      0x45f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x000000000000bff0       0x6f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strend-sse4.os)
+ .debug_line    0x000000000000c05f      0x4fe /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x000000000000c55d      0x942 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x000000000000ce9f      0x943 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3.os)
+ .debug_line    0x000000000000d7e2      0x99b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x000000000000e17d      0x878 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_line    0x000000000000e9f5      0x879 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mempcpy-ssse3-back.os)
+ .debug_line    0x000000000000f26e      0x882 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x000000000000faf0       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-sse4.os)
+ .debug_line    0x000000000000fb72      0x139 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strlen-no-bsf.os)
+ .debug_line    0x000000000000fcab      0x18e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memset-x86-64.os)
+ .debug_line    0x000000000000fe39      0x3ab /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x00000000000101e4      0x1dd /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_line    0x00000000000103c1      0x1ef /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_line    0x00000000000105b0      0x186 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_line    0x0000000000010736      0x23e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_line    0x0000000000010974      0x200 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_line    0x0000000000010b74       0x5a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(uname.os)
+ .debug_line    0x0000000000010bce       0xe9 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_line    0x0000000000010cb7       0xff /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_line    0x0000000000010db6       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getuid.os)
+ .debug_line    0x0000000000010e0e       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(geteuid.os)
+ .debug_line    0x0000000000010e66       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getgid.os)
+ .debug_line    0x0000000000010ebe       0x58 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getegid.os)
+ .debug_line    0x0000000000010f16       0x2a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .debug_line    0x0000000000010f40      0x13a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_line    0x000000000001107a      0x13b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_line    0x00000000000111b5      0x13b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_line    0x00000000000112f0       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(open.os)
+ .debug_line    0x000000000001134b       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(close.os)
+ .debug_line    0x00000000000113a6       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(read.os)
+ .debug_line    0x0000000000011401       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(write.os)
+ .debug_line    0x000000000001145c       0x5a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(access.os)
+ .debug_line    0x00000000000114b6      0x25c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_line    0x0000000000011712      0x1ef /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .debug_line    0x0000000000011901       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mmap.os)
+ .debug_line    0x000000000001195c       0x5a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(munmap.os)
+ .debug_line    0x00000000000119b6       0x5a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000011a10       0x5b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(llseek.os)
+ .debug_line    0x0000000000011a6b      0x2b3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_line    0x0000000000011d1e      0x253 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000011f71       0x86 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000000000011ff7       0x90 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x0000000000012087      0x119 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x00000000000121a0      0x16f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_line    0x000000000001230f      0x240 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_line    0x000000000001254f       0xb2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_line    0x0000000000012601       0x5a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(setitimer.os)
+ .debug_line    0x000000000001265b      0x499 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_line    0x0000000000012af4      0x1c7 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_line    0x0000000000012cbb      0x1ac /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x32ce0
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x28c5e /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_str     0x0000000000028c5e      0x3c8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_str     0x0000000000029026      0x22a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(errno.os)
+ .debug_str     0x0000000000029250      0x31a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_str     0x000000000002956a      0x15e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_str     0x00000000000296c8     0x1424 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x000000000002aaec      0x2b3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_str     0x000000000002ad9f      0x341 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_str     0x000000000002b0e0      0x2d3 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_str     0x000000000002b3b3      0x452 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_str     0x000000000002b805      0x3d4 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_str     0x000000000002bbd9      0x26a /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_str     0x000000000002be43      0x2aa /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_str     0x000000000002c0ed      0x13e /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(environ.os)
+ .debug_str     0x000000000002c22b      0x373 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_str     0x000000000002c59e      0x371 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_str     0x000000000002c90f      0x376 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_str     0x000000000002cc85      0x534 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_str     0x000000000002d1b9     0x108b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpagesize.os)
+ .debug_str     0x000000000002e244      0x738 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_str     0x000000000002e97c     0x1124 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000002faa0      0x3ba /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x000000000002fe5a      0x386 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_str     0x00000000000301e0      0x4e6 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_str     0x00000000000306c6      0x1bd /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_str     0x0000000000030883     0x185f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_str     0x00000000000320e2      0x8a8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_str     0x000000000003298a      0x356 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_loc      0x0000000000000000    0x30251
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x28b4f /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_loc     0x0000000000028b4f       0xe1 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(check_fds.os)
+ .debug_loc     0x0000000000028c30      0x69f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_loc     0x00000000000292cf     0x1024 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(wordcopy.os)
+ .debug_loc     0x000000000002a2f3     0x1316 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x000000000002b609       0x82 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(closedir.os)
+ .debug_loc     0x000000000002b68b      0x1ce /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_loc     0x000000000002b859       0x4c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x000000000002b8a5      0xae1 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_loc     0x000000000002c386       0x95 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x000000000002c41b      0x15b /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_loc     0x000000000002c576       0xc8 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_loc     0x000000000002c63e      0x253 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_loc     0x000000000002c891      0x248 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_loc     0x000000000002cad9      0x253 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_loc     0x000000000002cd2c      0x92f /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_loc     0x000000000002d65b      0x32d /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(profil.os)
+ .debug_loc     0x000000000002d988      0x62c /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_loc     0x000000000002dfb4      0x2bd /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_loc     0x000000000002e271      0x391 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(bsearch.os)
+ .debug_loc     0x000000000002e602     0x1399 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_loc     0x000000000002f99b      0x204 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_loc     0x000000000002fb9f      0x6b2 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x7170
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x6560 /users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000006560       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strchr.os)
+ .debug_ranges  0x00000000000065a0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcmp.os)
+ .debug_ranges  0x00000000000065e0       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(strcpy.os)
+ .debug_ranges  0x0000000000006620      0x110 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(memmove.os)
+ .debug_ranges  0x0000000000006730       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(stpcpy.os)
+ .debug_ranges  0x0000000000006770       0x40 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rawmemchr.os)
+ .debug_ranges  0x00000000000067b0      0x290 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000006a40       0xc0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(readdir.os)
+ .debug_ranges  0x0000000000006b00       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000006b30      0x1e0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getdents.os)
+ .debug_ranges  0x0000000000006d10       0x90 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000006da0       0x60 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(getpid.os)
+ .debug_ranges  0x0000000000006e00       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000006e30       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000006e60       0x30 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000006e90       0xa0 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(fcntl.os)
+ .debug_ranges  0x0000000000006f30       0x90 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(init-arch.os)
+ .debug_ranges  0x0000000000006fc0       0x60 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x0000000000007020       0x90 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(forward.os)
+ .debug_ranges  0x00000000000070b0       0x60 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(exit.os)
+ .debug_ranges  0x0000000000007110       0x60 /users/leeymcj/dune/eglibc-2.14/eglibc-build/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/users/leeymcj/dune/eglibc-2.14/eglibc-build/elf/librtld.map.o elf64-x86-64)
