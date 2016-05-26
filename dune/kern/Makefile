@@ -23,7 +23,7 @@ KVER  := $(shell uname -r)
 EXTRACT := $(M)/extract_symbol.sh
 KSRC := /lib/modules/$(KVER)/build
 KMISC := /lib/modules/$(KVER)/kernel/drivers/misc
-#KMISC_INC := /lib/modules/$(KVER)/build/include
+KMISC_INC := /lib/modules/$(KVER)/build/include
 
 SYSCALL_TBL = 0x$(shell $(EXTRACT) sys_call_table)
 DO_FORK = 0x$(shell $(EXTRACT) do_fork)
@@ -31,8 +31,7 @@ DO_FORK = 0x$(shell $(EXTRACT) do_fork)
 CFLAGS_vmx.o = -DSYSCALL_TBL=$(SYSCALL_TBL) -DDO_FORK=$(DO_FORK)
 
 #RDMA
-EXTRA_CFLAGS := -I /usr/include/rdma  /usr/include/netinet
-
+#EXTRA_CFLAGS := -I /usr/include/rdma  /usr/include/netinet
 LDLIBS  := ${LDLIBS} -lrdmacm -libverbs -lpthread
 
 

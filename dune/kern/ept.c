@@ -23,7 +23,8 @@
 
 #include "dune.h"
 #include "vmx.h"
-#include "rdma-client.h"
+//RDMA
+//#include "rdma-client.h"
 
 #define EPT_LEVELS	4	/* 0 through 3 */
 #define HUGE_PAGE_SIZE	2097152
@@ -234,7 +235,7 @@ static void free_ept_page(epte_t epte)
 		set_page_dirty_lock(page); //dirty page
 	put_page(page);
 	printk("page out\n");
-	rdma_write_offset( page, PAGE_SIZE*index++);
+	//rdma_write_offset( page, PAGE_SIZE*index++);
 
 
 }

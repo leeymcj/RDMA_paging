@@ -7,7 +7,7 @@
 //#include <string.h>
 //#include <unistd.h>
 //#include <rdma/rdma_cma.h>
-#include <rdma_cma.h>
+#include <rdma/rdma_cm.h>
 #include <linux/kthread.h>
 //#include <sys/time.h>
 #include <linux/semaphore.h>
